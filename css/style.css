@@ -21,6 +21,14 @@ h1, h2, h3, h4, h5 {
 	font: Bold 30px Lato;
 }
 
+/*.linkUnactive {
+	border: none;
+}
+
+.linkActive {
+	border: 3px solid #CDEE1F;
+}*/
+
 .pad {
 	padding-bottom: 45px;
 }
